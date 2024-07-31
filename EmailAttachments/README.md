@@ -1,6 +1,6 @@
 # PrestaShop Mail Class Override
 
-This folder contains custom override for the PrestaShop `Mail` class. These override modify the default behavior of email attachments handling in PrestaShop 
+This folder contains custom override for the PrestaShop `Mail` class. This override modifies the default behavior of email attachments handling in PrestaShop. 
 ## Overview
 
 The `Mail` class in PrestaShop is responsible for sending emails from the store. This override provides enhancements or custom functionality to the default email handling process. It allows you to add multiple attachments for mail templates based on their names. 
