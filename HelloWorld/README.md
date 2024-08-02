@@ -35,6 +35,6 @@ To understand the structure and basic development of this module, review the fol
 Feel free to modify these files to fit your needs or to use this module as a starting point for more complex development.
 ## Troubleshooting
 
-Message Not Displaying: Ensure the module is correctly installed and activated. Clear the PrestaShop cache if the message does not appear immediately.
-Error Messages: Check the PrestaShop logs for error messages related to module installation or execution.
+- Message Not Displaying: Ensure the module is correctly installed and activated. Clear the PrestaShop cache if the message does not appear immediately.
+- Error Messages: Check the PrestaShop logs for error messages related to module installation or execution.
 
