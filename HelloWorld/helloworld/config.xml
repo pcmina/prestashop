@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>helloworld</name>
+    <displayname><![CDATA[Hello World]]></displayname>
+    <version>1.0.0</version>
+    <author><![CDATA[5prstov]]></author>
+    <description><![CDATA[A simple Hello World module.]]></description>
+    <tab>administration</tab>
+    <need_instance>0</need_instance>
+</module>
