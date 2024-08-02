@@ -8,9 +8,9 @@ class HelloWorld extends Module
     public function __construct()
     {
         $this->name = 'helloworld';
-        $this->tab = 'front_office_features';
-        $this->version = '1.0.0';
-        $this->author = 'Your Name';
+        $this->tab = 'administration';
+        $this->version = '1.0.1';
+        $this->author = '5prstov';
         $this->need_instance = 0;
 
         parent::__construct();

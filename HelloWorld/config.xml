@@ -3,8 +3,8 @@
     <name>helloworld</name>
     <displayname><![CDATA[Hello World]]></displayname>
     <version>1.0.0</version>
-    <author><![CDATA[Your Name]]></author>
+    <author><![CDATA[5prstov]]></author>
     <description><![CDATA[A simple Hello World module.]]></description>
-    <tab>front_office_features</tab>
+    <tab>administration</tab>
     <need_instance>0</need_instance>
 </module>
