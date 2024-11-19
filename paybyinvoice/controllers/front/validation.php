@@ -1,6 +1,6 @@
 <?php
 
-class MyPaymentMethodValidationModuleFrontController extends ModuleFrontController
+class PayByInvoiceValidationModuleFrontController extends ModuleFrontController
 {
     public function postProcess()
     {

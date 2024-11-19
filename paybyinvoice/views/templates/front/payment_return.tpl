@@ -1,1 +1,1 @@
-<p>{l s='Thank you for your order! You have selected My Payment Method. Please follow the instructions sent to your email.' mod='mypaymentmethod'}</p>
+<p>{l s='Thank you for your order! You have selected to pay by Invoice. You will pay after you get the invoice.' mod='paybyinvoice'}</p>
